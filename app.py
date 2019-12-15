@@ -15,3 +15,6 @@ if not os.path.exists('mnist.h5'):
 else:
     print('Model exists. Starting server')
     server.start()
+
+
+    
